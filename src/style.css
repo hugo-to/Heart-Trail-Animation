@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+}
+
+span{
+    background: url(https://cdn0.iconfinder.com/data/icons/love-hand-drawn-color/64/heart-512.png);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-size: cover;
+}
